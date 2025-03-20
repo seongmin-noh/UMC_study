@@ -6,7 +6,6 @@
 ## 📆 스터디 진행 일정 및 내용
 
 | 주차  | 내용 |
-|------|------|----------|
 | 1주차 | TypeScript의 기본 | 
 | 2주차 | React 맛보기 (tsx, useState, contextAPI)  |
 
