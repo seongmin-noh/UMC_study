@@ -5,12 +5,8 @@
 
 ## 📆 스터디 진행 일정 및 내용
 
-| 주차  | 내용  | 폴더 경로 |
+| 주차  | 내용 |
 |------|------|----------|
-| 1주차 | Git & GitHub 기초 | `week1/` |
-| 2주차 | HTML & CSS 기본 | `week2/` |
-| 3주차 | JavaScript 기초 | `week3/` |
-| 4주차 | React 기본 개념 | `week4/` |
-| 5주차 | React 컴포넌트 & 상태관리 | `week5/` |
+| 1주차 | TypeScript의 기본 | 
+| 2주차 | React 맛보기 (tsx, useState, contextAPI)  |
 
-## 📁 폴더 구조
